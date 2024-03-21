@@ -1,4 +1,3 @@
-<<<<<<< HEAD
 # DisneyLine Tracker
 
 Bienvenue dans DisneyLine Tracker, votre compagnon ultime pour suivre en direct les temps d'attente des attractions à sensations à Disneyland Paris ! 🚀🎢✨
