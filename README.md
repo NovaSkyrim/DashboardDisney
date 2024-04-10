@@ -35,4 +35,4 @@ Que l'aventure commence ! 🎉🏰✨
 
 ## Contact
 
-Pour toute question, suggestion ou collaboration, n'hésitez pas à me contacter à l'adresse suivante : [clement.coutant@esme.fr](mailto:clement.coutant@esme.fr).
+Pour toute question, suggestion ou collaboration, n'hésitez pas à nous contacter aux adresses suivantes : [clement.coutant@esme.fr](mailto:clement.coutant@esme.fr) [maeva.desbats@esme.fr](mailto:maeva.desbats@esme.fr).
